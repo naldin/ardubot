@@ -10,7 +10,9 @@ No lugar da placa controladora via PIC coloquei um Arduino e compartilho aqui o 
 Mais detalhes podem ser encontrados em meu blog:
 
 [Parte 1](http://xyzturbo.blogspot.com.br/2014/01/robo-usando-arduino.html)
+
 [Parte 2](http://xyzturbo.blogspot.com.br/2014/01/robo-monty-parte-2.html)
+
 [Parte 3](http://xyzturbo.blogspot.com.br/2014/01/robo-monty-usando-arduino-parte-3.html)
 
 <img src="https://github.com/naldin/ardubot/raw/master/monty2.jpg" />
